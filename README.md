@@ -40,7 +40,8 @@ pip install selenium
 Download ChromeDriver
 Download the version matching your Chrome browser and place it in a known directory (e.g., C:\Drivers\chromedriver.exe). Update the path in your script if needed.
 
-How it Works
+How it Works:
+
 1.The script workflow:
 2.Initializes Chrome WebDriver with a specified driver path
 3.Opens OrangeHRM demo login page
